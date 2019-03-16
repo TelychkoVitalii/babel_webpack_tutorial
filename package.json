@@ -2,9 +2,9 @@
   "name": "babel_webpack_tutorial",
   "version": "1.0.0",
   "description": "Babel Webpack latest versions tutorial with detailed description",
-  "main": "index.js",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack"
   },
   "author": "Telychko Vitalii",
   "license": "ISC",

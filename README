@@ -1,0 +1,2 @@
+1. Start Project - npm run build || npx webpack --config webpack.config.js.
+2.
